@@ -162,10 +162,22 @@
     "story": "Founded in 2020, Morningside Bulimba Builders has quickly become a trusted name in Brisbane construction.",
     "mission": "To deliver exceptional building solutions that exceed client expectations through innovation, quality, and integrity.",
     "values": [
-      "Quality Craftsmanship",
-      "Customer Satisfaction",
-      "Sustainable Practices",
-      "Transparent Communication"
+      {
+        "title": "Quality Craftsmanship",
+        "description": "We are committed to quality craftsmanship."
+      },
+      {
+        "title": "Customer Satisfaction",
+        "description": "We are committed to customer satisfaction."
+      },
+      {
+        "title": "Sustainable Practices",
+        "description": "We are committed to sustainable practices."
+      },
+      {
+        "title": "Transparent Communication",
+        "description": "We are committed to transparent communication."
+      }
     ],
     "features": [
       "15+ Years Combined Experience",
