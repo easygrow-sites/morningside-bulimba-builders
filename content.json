@@ -1,0 +1,226 @@
+{
+  "business": {
+    "name": "Morningside Bulimba Builders",
+    "tagline": "Transforming Brisbane Homes, Building Dreams",
+    "phone": "0403531383",
+    "email": "admin@msbbuild.com",
+    "address": "23 Oxford Street, Bulimba",
+    "suburb": "Bulimba",
+    "city": "Brisbane",
+    "state": "QLD",
+    "postcode": "4171",
+    "country": "Australia",
+    "service": "Building",
+    "serviceSlug": "building",
+    "abn": "84627392740",
+    "established": 2020,
+    "openingHours": {
+      "monday": "8:00 AM - 5:00 PM",
+      "tuesday": "8:00 AM - 5:00 PM",
+      "wednesday": "8:00 AM - 5:00 PM",
+      "thursday": "8:00 AM - 5:00 PM",
+      "friday": "8:00 AM - 5:00 PM",
+      "saturday": "9:00 AM - 12:00 PM",
+      "sunday": "Closed"
+    },
+    "socialMedia": {
+      "facebook": "https://facebook.com/morningsidebuilders",
+      "instagram": "https://instagram.com/msb_builders",
+      "linkedin": "https://linkedin.com/company/morningsidebuilders"
+    }
+  },
+  "services": [
+    {
+      "title": "Residential Construction",
+      "slug": "residential-building",
+      "shortDescription": "Custom home building solutions for Brisbane families",
+      "description": "Comprehensive residential construction services tailored to your unique lifestyle and design preferences.",
+      "price": "From $350,000",
+      "duration": "6-12 months",
+      "icon": "home",
+      "features": [
+        "Custom Design",
+        "Quality Materials",
+        "Energy Efficient",
+        "Personalized Approach"
+      ],
+      "image": "https://images.unsplash.com/photo-1580130544977-624d0e30b923"
+    },
+    {
+      "title": "Home Renovations",
+      "slug": "home-renovations",
+      "shortDescription": "Transforming existing spaces into modern living areas",
+      "description": "Expert renovation services to upgrade and modernize your Brisbane home with precision and style.",
+      "price": "From $50,000",
+      "duration": "3-6 months",
+      "icon": "refresh",
+      "features": [
+        "Kitchen Remodels",
+        "Bathroom Updates",
+        "Structural Changes",
+        "Interior Design"
+      ],
+      "image": "https://images.unsplash.com/photo-1484101403633-471b3429f506"
+    },
+    {
+      "title": "Commercial Building",
+      "slug": "commercial-construction",
+      "shortDescription": "Professional commercial building solutions",
+      "description": "Comprehensive commercial construction services for businesses across Brisbane and surrounding regions.",
+      "price": "From $500,000",
+      "duration": "9-18 months",
+      "icon": "building",
+      "features": [
+        "Project Management",
+        "Custom Design",
+        "Compliance Expertise",
+        "Sustainable Solutions"
+      ],
+      "image": "https://images.unsplash.com/photo-1510074202230-5e4b30cca717"
+    }
+  ],
+  "serviceAreas": [
+    {
+      "name": "Bulimba",
+      "slug": "bulimba",
+      "description": "Our home base, specializing in high-end residential construction and renovations."
+    },
+    {
+      "name": "New Farm",
+      "slug": "new-farm",
+      "description": "Providing premium building services to Brisbane's prestigious New Farm neighborhood."
+    },
+    {
+      "name": "Hawthorne",
+      "slug": "hawthorne",
+      "description": "Expert building solutions for Hawthorne's diverse residential and commercial properties."
+    }
+  ],
+  "team": [
+    {
+      "name": "Jack Thompson",
+      "role": "Founder & Lead Builder",
+      "bio": "With 15 years of construction experience, Jack leads our team with passion and expertise.",
+      "image": "https://images.unsplash.com/photo-1507081323647-4d250478b919",
+      "specialties": [
+        "Custom Home Design",
+        "Project Management",
+        "Sustainable Building"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah Johnson",
+      "location": "Bulimba, QLD",
+      "text": "Exceptional work and professionalism. Morningside Bulimba Builders transformed our home perfectly!",
+      "rating": 5,
+      "service": "Home Renovation",
+      "date": "2023-06-15"
+    },
+    {
+      "name": "Michael Chen",
+      "location": "New Farm, QLD",
+      "text": "Outstanding communication and craftsmanship. Highly recommended for any building project.",
+      "rating": 5,
+      "service": "Residential Construction",
+      "date": "2023-05-22"
+    },
+    {
+      "name": "Emma Roberts",
+      "location": "Brisbane, QLD",
+      "text": "Professional, reliable, and delivered beyond our expectations.",
+      "rating": 4,
+      "service": "Commercial Building",
+      "date": "2023-04-10"
+    }
+  ],
+  "faq": [
+    {
+      "question": "How long does a typical home build take?",
+      "answer": "Most residential builds take between 6-12 months, depending on complexity and design."
+    },
+    {
+      "question": "Do you provide design services?",
+      "answer": "Yes, we offer comprehensive design and architectural consultation as part of our building services."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. We're fully licensed, insured, and compliant with all Queensland building regulations."
+    },
+    {
+      "question": "What areas do you service?",
+      "answer": "We primarily service Brisbane and surrounding suburbs, including Bulimba, New Farm, and Hawthorne."
+    },
+    {
+      "question": "How do I get a quote?",
+      "answer": "Contact us for a free, no-obligation consultation and detailed project quote."
+    }
+  ],
+  "about": {
+    "title": "Building Brisbane's Future, One Project at a Time",
+    "story": "Founded in 2020, Morningside Bulimba Builders has quickly become a trusted name in Brisbane construction.",
+    "mission": "To deliver exceptional building solutions that exceed client expectations through innovation, quality, and integrity.",
+    "values": [
+      "Quality Craftsmanship",
+      "Customer Satisfaction",
+      "Sustainable Practices",
+      "Transparent Communication"
+    ],
+    "features": [
+      "15+ Years Combined Experience",
+      "Custom Design Specialists",
+      "Sustainable Building Experts"
+    ]
+  },
+  "gallery": [
+    {
+      "image": "https://images.unsplash.com/photo-1587094313755-5da19141e7d3",
+      "alt": "Modern Home Construction",
+      "category": "Residential"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
+      "alt": "Contemporary Home Design",
+      "category": "Architecture"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1597560225596-4c247d68d869",
+      "alt": "Interior Renovation",
+      "category": "Renovation"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1460925895917-7outline1b82b8",
+      "alt": "Construction Site",
+      "category": "Process"
+    }
+  ],
+  "seo": {
+    "siteName": "Morningside Bulimba Builders",
+    "siteUrl": "https://morningsidebuilders.com.au",
+    "title": "Brisbane Building & Construction Experts | Morningside Bulimba Builders",
+    "description": "Professional building and renovation services in Brisbane. Custom homes, renovations, and commercial construction with quality and innovation.",
+    "keywords": [
+      "Brisbane builders",
+      "home construction",
+      "renovation services",
+      "custom home design",
+      "building contractors"
+    ]
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "priceRange": "$$"
+  },
+  "colors": {
+    "primary": "#2C3E50",
+    "primaryLight": "#34495E",
+    "secondary": "#3498DB",
+    "accent": "#E74C3C"
+  },
+  "cta": {
+    "primary": "Get a Free Quote",
+    "secondary": "Call Now",
+    "consultation": "Free Consultation"
+  }
+}
