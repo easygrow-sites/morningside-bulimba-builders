@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { content } from '@/lib/content';
+import ContactForm from '@/app/components/ContactForm';
 
 export const metadata: Metadata = {
   title: `Contact & Book | ${content.business.name}`,
