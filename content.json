@@ -187,31 +187,26 @@
   },
   "gallery": [
     {
-      "image": "https://images.unsplash.com/photo-1587094313755-5da19141e7d3",
-      "alt": "Modern Home Construction",
+      "image": "https://images.unsplash.com/photo-1580130544977-624d0e30b923",
+      "alt": "Residential Construction",
       "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
-      "alt": "Contemporary Home Design",
-      "category": "Architecture"
+      "image": "https://images.unsplash.com/photo-1484101403633-471b3429f506",
+      "alt": "Home Renovations",
+      "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1597560225596-4c247d68d869",
-      "alt": "Interior Renovation",
-      "category": "Renovation"
-    },
-    {
-      "image": "https://images.unsplash.com/photo-1460925895917-7outline1b82b8",
-      "alt": "Construction Site",
-      "category": "Process"
+      "image": "https://images.unsplash.com/photo-1510074202230-5e4b30cca717",
+      "alt": "Commercial Building",
+      "category": "Residential"
     }
   ],
   "seo": {
-    "siteName": "Morningside Bulimba Builders",
+    "siteName": "Morningside Bulimba Builders Brisbane",
     "siteUrl": "https://morningsidebuilders.com.au",
-    "title": "Brisbane Building & Construction Experts | Morningside Bulimba Builders",
-    "description": "Professional building and renovation services in Brisbane. Custom homes, renovations, and commercial construction with quality and innovation.",
+    "title": "Morningside Bulimba Builders | Building Brisbane | Professional Building",
+    "description": "Brisbane's top-rated building service. Expert residential and commercial building. Servicing Brisbane & surrounding areas. Call 0403531383.",
     "keywords": [
       "Brisbane builders",
       "home construction",
